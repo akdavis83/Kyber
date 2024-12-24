@@ -1,4 +1,4 @@
-# BTCETHKeyGen Documentation
+# BTC/ETHKeyGen Documentation
 
 Overview
 The BTCETHKeyGen class provides functionality to generate Bitcoin and Ethereum key pairs using post-quantum cryptography, specifically the Kyber algorithm. This implementation combines traditional elliptic curve cryptography (ECDSA with SECP256k1 curve) with the Kyber key encapsulation mechanism for enhanced security.
